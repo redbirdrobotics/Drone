@@ -1,4 +1,5 @@
 using <iostream>
+using <cout>
 using namespace std;
 int main(){
 
